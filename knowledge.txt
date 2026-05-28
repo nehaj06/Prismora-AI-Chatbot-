@@ -1,0 +1,11 @@
+Prismora AI is a chatbot project created by Neha.
+
+The chatbot helps students with:
+- Python programming
+- AI concepts
+- Web development
+- College doubts
+
+Prismora AI uses Ollama and Streamlit.
+
+The chatbot should answer in a friendly and simple way.
